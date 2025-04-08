@@ -1,41 +1,78 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Veeravalli Yaswanth 👋</h1>
 
-I'm **Veeravalli Yaswanth**  
-🚀 Aspiring Full Stack Developer | Java Enthusiast | Web Developer  
-
----
-
-### 🔹 About Me:
-I’m a Computer Science and Engineering student passionate about coding, web development, and problem-solving. I have experience with both frontend and backend technologies and enjoy building web applications that enhance user experience.
+<p align="center">
+  🚀 Aspiring Full Stack Developer | Java Enthusiast | Web Developer <br/>
+  🎓 B.Tech in Computer Science & Engineering | D.N.R College of Engineering & Technology (2024–2026)
+</p>
 
 ---
 
-### 🔹 Skills:
-- **Programming Languages:** Java, Python, JavaScript, C++
-- **Web Development:** HTML, CSS, React, Node.js
-- **Databases:** MySQL, Firebase
-- **Tools & Platforms:** Git, GitHub, VS Code
+## 🧑‍💻 About Me
+
+I’m a passionate Computer Science and Engineering student who loves solving problems and building user-centric web applications. I specialize in both frontend and backend development and have hands-on experience with full-stack projects.
 
 ---
 
-### 🔹 Projects:
-- 🎵 **Spotify Clone** – A music streaming web app  
-- 🏫 **Virtual College Campus Tour** – An interactive web-based tour of my college  
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+### 🖥️ Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Projects
+
+- 🎵 **Spotify Clone** – A music streaming web app using React & Node.js  
+- 🏫 **Virtual College Campus Tour** – Interactive tour experience of the campus  
 - 🤖 **AI-powered Business Website** – Developed during a Generative AI workshop  
 
 ---
 
-### 🔹 Education:
-**B.Tech in Computer Science & Engineering**  
-D.N.R College of Engineering & Technology (2024–2026)
+## 📫 Connect with Me
+
+<p>
+  <a href="mailto:yaswanth.veeravalli7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://in.linkedin.com/in/veeravalli-yaswanth">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/your-username">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/yaswanth.1432">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 📫 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- [GitHub](https://github.com/your-username)  
-- 📧 Email: your.email@example.com
-
----
-
-_Thanks for visiting my profile! Feel free to check out my repositories and connect!_
+<p align="center">
+  🧠 Always learning | 💡 Open to collaboration | 🌱 Growing every day
+</p>
