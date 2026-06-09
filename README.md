@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Computer Science and Engineering student passionate about software development, artificial intelligence, machine learning, and data analytics.
+I'm a Computer Science and Engineering student passionate about software development, Artificial Intelligence, Machine Learning, and Data Analytics.
 
 I enjoy building practical applications that solve real-world problems and continuously improving my technical skills through projects, certifications, and hands-on learning.
 
@@ -34,8 +34,6 @@ I enjoy building practical applications that solve real-world problems and conti
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
 ### 🌐 Frontend Development
@@ -47,10 +45,9 @@ I enjoy building practical applications that solve real-world problems and conti
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-### ⚙️ Backend & Databases
+### 🖥️ Backend & Databases
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -62,12 +59,12 @@ I enjoy building practical applications that solve real-world problems and conti
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Deep%20Learning-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-### 🛠️ Tools & Platforms
+### ⚙️ Tools & Platforms
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -102,8 +99,8 @@ I enjoy building practical applications that solve real-world problems and conti
 
 ### 🤖 AI-Powered Business Website
 
-* Developed during Generative AI Workshop
-* AI-assisted Website Development
+* Developed During Generative AI Workshop
+* AI-Assisted Website Development
 
 ---
 
@@ -126,16 +123,20 @@ I enjoy building practical applications that solve real-world problems and conti
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash2122s&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash2122s&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 
 ## 📫 Connect With Me
 
 <p>
-  <a href="mailto:yaswanth.veeravalli7@gmail.com">
+  <a href="mailto:yaswanth.veeravalli1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://in.linkedin.com/in/veeravalli-yaswanth">
+  <a href="https://www.linkedin.com/in/yaswanth-veeravalli-f7/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
@@ -151,5 +152,5 @@ I enjoy building practical applications that solve real-world problems and conti
 ---
 
 <p align="center">
-  💡 Building Projects • Learning AI • Exploring Data Analytics • Growing Every Day 🚀
+  🧠 Always Learning | 💡 Building Projects | 🤖 Exploring AI | 📊 Data Analytics | 🚀 Growing Every Day
 </p>
