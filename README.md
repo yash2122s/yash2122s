@@ -1,4 +1,3 @@
-````markdown
 <h1 align="center">Hi there, I'm Veeravalli Yaswanth 👋</h1>
 
 <p align="center">
@@ -261,6 +260,6 @@ Technical Problem Solving
 <p align="center">
   🧠 Building with AI | 🐍 Python | 🤖 AI Agents | 🖥️ Automation | 💻 Software Development
 </p>
-```
+
 
 This version makes **MAX Android + MAX Windows + Python + AI/ML** the core of your GitHub identity instead of presenting you mainly as a generic web-development student.
